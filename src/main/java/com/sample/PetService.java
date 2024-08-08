@@ -15,6 +15,7 @@ public class PetService {
         	breeds.add("Labradar");
         	breeds.add(("Pommarenian"));
         	breeds.add(("Indian"));
+        	breeds.add(("China"));
 
         }else if(type.equals(PetType.CAT)){
         	breeds.add("Black");
